@@ -6,7 +6,7 @@ change the 'ARUN-PC' name to your computer name(or the machine which server.py i
 run client.py in python IDLE
 use register button to create username and password
 ######################################
-Actyaly you need to create two username and password
+Actually  you need to create two username and password
 one for yourself and another for person you need to connect
 #####################################
 if you got successfull message close all
